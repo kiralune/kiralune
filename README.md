@@ -3,13 +3,6 @@
 <h3 align="center">Front End Developer ◉ UI/UX Designer ◉ Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat" alt="visitors" />
-  <a href="https://github.com/kiralune">
-    <img src="https://user-badge.committers.top/indonesia_private/kiralune.svg" alt="committers.top badge" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/409ba5/kiralune" alt="GitHub Contribution Chart" width="80%" />
 </p>
 
