@@ -15,7 +15,7 @@
 
 ### Highlight .✦ ݁˖
 
-<p align="center">
+<p>
   • 𖹭 My name is Calista Sasikirana<br>
   • 𖹭 Passionate about front end development and UI/UX design<br>
   • 𖹭 How to reach me <b>calista.kira@students.amikom.ac.id</b>
@@ -25,7 +25,9 @@
 
 ### About Me ⋆. 𐙚 ˚
 
+<p align="justify">
 Hi, my name is Calista, an Information Systems student at AMIKOM Yogyakarta with a passion for developing Android-based applications. Recently, I have been learning Android Studio and Laravel to enhance my development skills. I have a strong passion for front-end development, especially in creating attractive and user-friendly designs and interfaces for applications and websites. With full dedication, I am ready to face challenges in developing an exceptional user experience through innovative coding and design.
+</p>
 
 ---
 
@@ -41,6 +43,7 @@ Hi, my name is Calista, an Information Systems student at AMIKOM Yogyakarta with
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
+
 ---
 
 ### Social ⌯⌲
