@@ -3,8 +3,10 @@
 <h3 align="center">Front End Developer ◉ UI/UX Designer ◉ Tech Explorer</h3>
 
 <p align="center">
-  ![visitors](https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat)
-  [![committers.top badge](https://user-badge.committers.top/indonesia_private/kiralune.svg)](https://github.com/kiralune)
+  <img src="https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat" alt="visitors" />
+  <a href="https://github.com/kiralune">
+    <img src="https://user-badge.committers.top/indonesia_private/kiralune.svg" alt="committers.top badge" />
+  </a>
 </p>
 
 <p align="center">
