@@ -1,15 +1,8 @@
-<h1 align="center">Welcome to My Profile Outlander! 👋</h1>
+# Welcome to My Profile Outlander! 👋
 
-<h3 align="center">Mobile Developer | Android Enthusiast | Tech Explorer</h3>
+**Mobile Developer | Android Enthusiast | Tech Explorer**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat" alt="visitors" />
-  <a href="https://github.com/kiralune?tab=repositories">
-    <img src="https://img.shields.io/badge/committers.top%20rank-Indonesia%20%23213-blue?style=flat" alt="rank" />
-  </a>
-</p>
-
-<br>
+![visitors](https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat) [![committers.top badge](https://user-badge.committers.top/indonesia_private/kiralune.svg)](https://github.com/kiralune)
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/kiralune" alt="GitHub Contribution Chart" width="80%" />
@@ -17,84 +10,56 @@
 
 ---
 
-### 👨‍💻 About Me
+### highlight 🔦
 
-```typescript
-const kiralune = {
-    location: "Indonesia 🇮🇩",
-    learning: ["Kotlin", "Android Development", "UI/UX Design"],
-    interests: ["Mobile Apps", "Clean Code", "Problem Solving"],
-    funFact: "I turn coffee into code ☕️",
-    askMeAbout: ["Android", "Java", "Kotlin", "Mobile UI"]
-};
-```
+• 😎 My name is Kiralune  
+• 🌱 I'm currently learning **Kotlin** and **Android Development**  
+• 👨‍💻 My portfolio available at: [your-portfolio-link.com](https://your-portfolio-link.com)  
+• 📫 How to reach me **calista.kira@students.amikom.ac.id**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### About Me 📄
+
+Hello outlander, my name is Kiralune, a passionate and ambitious mobile developer with a dedication to creating innovative Android applications. Currently, I am a student at a prestigious university in Indonesia, where I'm on an exciting journey through my computer science program. With ambition burning brightly in my heart, I venture into the world of mobile development, where code creates amazing user experiences. The art of programming is my tool, and I'm always ready to tackle the most intricate challenges that mobile development brings 🚀📱🔥.
+
+---
+
+### Tech Stack 🔥
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### Stats ⚡
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiralune&hide=issues&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiralune&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+### Social 🌐
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiralune&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3EACF7&icon_color=3EACF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiralune&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EACF7"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiralune&theme=tokyonight&hide_border=true&background=0D1117&ring=3EACF7&fire=3EACF7&currStreakLabel=3EACF7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiralune&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3EACF7&line=3EACF7&point=FFFFFF" alt="Activity Graph" />
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/your-profile/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiralune&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### 🔥 Current Projects
-
-- 📱 **Watchive_UAS-BP2** - Mobile application development project
-- 🚀 Building innovative Android solutions
-- 🌱 Continuously improving my skills in mobile development
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/kiralune">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-profile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/kiralune">kiralune</a> with ❤️</i>
