@@ -1,14 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+<h1 align="center">Welcome to My Profile Outlander! 👋</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EACF7&center=true&vCenter=true&multiline=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B+I'm+Kiralune;Mobile+Developer+%F0%9F%93%B1;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
-</h1>
+<h3 align="center">Mobile Developer | Android Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiralune&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kiralune?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=kiralune&label=visitors&color=0e75b6&style=flat" alt="visitors" />
+  <a href="https://github.com/kiralune?tab=repositories">
+    <img src="https://img.shields.io/badge/committers.top%20rank-Indonesia%20%23213-blue?style=flat" alt="rank" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/kiralune" alt="GitHub Contribution Chart" width="80%" />
 </p>
 
 ---
@@ -18,7 +22,6 @@
 ```typescript
 const kiralune = {
     location: "Indonesia 🇮🇩",
-    currentFocus: "Mobile Development with Android Studio",
     learning: ["Kotlin", "Android Development", "UI/UX Design"],
     interests: ["Mobile Apps", "Clean Code", "Problem Solving"],
     funFact: "I turn coffee into code ☕️",
@@ -92,20 +95,6 @@ const kiralune = {
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/kiralune">kiralune</a> with ❤️</i>
